@@ -1,6 +1,6 @@
 # scrum_3BSCS-2
 
-Welcome to the repository for our Scrum project. This document outlines our team structure, roles, and the branching rules we follow to keep our workflow clean and collaborative.
+Welcome to the repository for our Scrum project. This document outlines our team structure.
 
 ---
 

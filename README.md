@@ -4,7 +4,7 @@ Welcome to the repository for our Scrum project. This document outlines our team
 
 ---
 
-## Team Roster
+## Team 
 
 | Role | Name | GitHub Branch |
 |---|---|---|
